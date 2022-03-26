@@ -1,3 +1,5 @@
+[中文版](README_zh-CN.md)
+
 ### Hi there 👋
 
 Welcome to my profile! Now let me introduce myself to you. 😃

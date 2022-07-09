@@ -27,6 +27,25 @@ The best way to reach me is using email, and... I think it's on my profile, righ
 
 At last, wish you a happy life!
 
+# About Giving Up GitHub
+Note: I encourage you to add the below to your existing `README.md` on your GitHub project.
+
+== I'm Still Using GitHub Under Protest ==
+
+Most of my projects are currently hosted on GitHub.  This is not ideal; GitHub
+is a proprietary, trade-secret system that is not Free and Open Souce Software
+(FOSS).  I'm deeply concerned about using a proprietary system like GitHub to
+develop our FOSS project. I urge you to read about the [Give up GitHub](https://GiveUpGitHub.org)
+campaign from [the Software Freedom Conservancy](https://sfconservancy.org) to
+understand some of the reasons why GitHub is not a good place to host FOSS
+projects.
+
+Any use of my projects' code by GitHub Copilot, past or present, is done
+without my permission.  I do not consent to GitHub's use of my projects'
+code in Copilot.
+
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
+
 <!--
 **YUCLing/YUCLing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

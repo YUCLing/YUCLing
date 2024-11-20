@@ -12,13 +12,11 @@ I like to help others with no condition. I guess you've learned that from some o
 
 ## What Am I Doing Now
 
-Currently, I'm working on a [player](https://github.com/M4TEC/PenguinPlayer). It's a modular web music player, which aims to create a better embedding webpage music player experience. You can help me with it too. If you do so, I will be very appreciated! 🤗
-
-Also, I'm working on a rhythm game too. It's not published and is in the early stage of development. 👀
+I'm contributing to [Flarum](https://github.com/flarum/framework) recently.
 
 ## What Am I Learning
 
-Even though I got so many things to do, I'm still trying to find some time to learn C and C++. If you wonder why I'm studying it, it's because that C/C++ is a low-level language. So I can do many things with them if I know how to use them. ✅
+Uhh... Rust?
 
 ## How To Reach Me
 

@@ -27,7 +27,7 @@ The best way to reach me is using email, and... I think it's on my profile, righ
 
 At last, wish you a happy life!
 
-# About Giving Up GitHub
+<!--# About Giving Up GitHub
 Note: I encourage you to add the below to your existing `README.md` on your GitHub project.
 
 == I'm Still Using GitHub Under Protest ==
@@ -44,7 +44,7 @@ Any use of my projects' code by GitHub Copilot, past or present, is done
 without my permission.  I do not consent to GitHub's use of my projects'
 code in Copilot.
 
-![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)-->
 
 <!--
 **YUCLing/YUCLing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -25,7 +25,7 @@
 
 最后，祝你生活愉快，<del>早生贵子</del>！
 
-# 关于放弃GitHub
+<!--# 关于放弃GitHub
 提醒：我鼓励你将以下内容添加到你的`README.md`当中。
 
 == 我仍在抗议当中使用 GitHub ==
@@ -38,7 +38,7 @@
 GitHub Copilot从过去到现在对我的项目代码的使用均未经我的许可。我不同意GitHub在Copilot
 中使用我的项目代码。
 
-![GiveUpGitHub活动的标志](https://sfconservancy.org/img/GiveUpGitHub.png)
+![GiveUpGitHub活动的标志](https://sfconservancy.org/img/GiveUpGitHub.png)-->
 
 <!--
 **YUCLing/YUCLing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

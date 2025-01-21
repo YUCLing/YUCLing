@@ -12,7 +12,7 @@ I like to help others with no condition. I guess you've learned that from some o
 
 ## What Am I Doing Now
 
-I'm contributing to [Flarum](https://github.com/flarum/framework) recently.
+I'm working on a custom Discord bot.
 
 ## What Am I Learning
 

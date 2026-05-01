@@ -6,7 +6,7 @@ Welcome to my profile! Now let me introduce myself to you. 😃
 
 ## Who Am I
 
-I'm a senior high school student living in Guangxi, China. Programming is one of my hobbies, that's why I'm here!
+I'm a college student living in Guangxi, China. Programming is one of my hobbies, that's why I'm here!
 
 I like to help others with no condition. I guess you've learned that from some of my contributions or projects already 🤔. However, if you want some help from me, you can reach out directly! I will help you as much as I can 😊.
 

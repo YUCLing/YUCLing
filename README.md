@@ -12,7 +12,7 @@ I like to help others with no condition. I guess you've learned that from some o
 
 ## What Am I Doing Now
 
-I'm working on a custom Discord bot.
+[Open Orpheus](https://github.com/YUCLing/open-orpheus)
 
 ## What Am I Learning
 
